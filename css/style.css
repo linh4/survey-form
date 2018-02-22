@@ -157,6 +157,13 @@ p {
 }
 
 @media only screen and (max-width: 550px) {
+    
+  body {
+  font-size: 1.2em;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://wallpapercave.com/wp/Fdh76FQ.jpg) center no-repeat fixed;
+  background-size: cover;
+}
+    
   .labels {
     width: 100%;
     text-align: left;
