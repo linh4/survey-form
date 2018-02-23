@@ -152,8 +152,9 @@ footer a:hover {
   color: #f1c40f;
 }
 
-p {
+footer p {
   margin: 0;
+  font-size: 18px;
 }
 
 @media only screen and (max-width: 550px) {
